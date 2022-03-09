@@ -3,8 +3,7 @@
 
 初学前端，记录所学，所思，所得，和大家分享前端（不止前端）学习路上的点点滴滴。
 
-  <link rel="stylesheet" href="devicon.min.css">
-
+- [前端知识点思维导图](https://what-is-fe.gitee.io/)(与君共勉)
 
 - [博客园 前端旧约](https://www.cnblogs.com/zhangguicheng/)
 
